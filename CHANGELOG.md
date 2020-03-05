@@ -16,6 +16,8 @@ This is the log of notable changes to the Expo client that are developer-facing.
 
 ### 🐛 Bug fixes
 
+- Fixed `KeepAwake.activateKeepAwake` not working with multiple tags on Android. ([#7197](https://github.com/expo/expo/pull/7197) by [@lukmccall](https://github.com/lukmccall))
+
 ## 37.0.0
 
 ### 📚 3rd party library updates
